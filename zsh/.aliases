@@ -1,0 +1,3 @@
+alias gs='git status'
+alias qgeth='geth --datadir=~/.qbether'
+alias wasm_init='source ~/work/emsdk/emsdk_env.sh'

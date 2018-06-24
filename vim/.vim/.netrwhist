@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jon/.ipython/profile_default/startup'
+let g:netrw_dirhist_2='/Users/jon/work/st/batch-pool-service/.git'
+let g:netrw_dirhist_3='/Users/jon/work/grid-ai/environment/a3c'
+let g:netrw_dirhist_4='/Users/jon/Downloads/nri-backend-takehome copy/src'
